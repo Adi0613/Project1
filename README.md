@@ -1,2 +1,10 @@
-# Project1
-runnuing a simple code
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+}
+
+
+
+
+
